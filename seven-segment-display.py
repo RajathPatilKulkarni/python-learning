@@ -10,7 +10,6 @@ digits = [ '1111110',  	# 0
 	   '1111011',	# 9
 	   ]
 
-
 def print_number(num):
 	global digits
 	digs = str(num)
