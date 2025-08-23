@@ -35,22 +35,29 @@ All programs are written in **Python 3** and can be run directly using any Pytho
 
 ---
 
-## 📝 Files Included
+## 🗂️ Files Included
 
 - `Advanced Queue.py`: Implementation of an advanced queue data structure.
 - `Anagram.py`: Program to check if two strings are anagrams.
 - `Caesar Cipher - Decryption.py`: Script to decrypt Caesar ciphered text.
 - `Caesar Cipher - Encryption.py`: Script to encrypt text using Caesar cipher.
+- `Calendar.py`: Displays a calendar for a given month and year.
+- `Character Frequency Histogram.py`: Generates a histogram of character frequencies in a text.
 - `Counting Stack.py`: Implementation of a stack with counting capabilities.
+- `DateTime.py`: Examples of working with date and time in Python.
 - `Days of the Week.py`: Program to determine the day of the week for a given date.
 - `Digit of Life.py`: Calculates the "digit of life" from a birthdate.
+- `Directory Searcher.py`: Searches for files within a specified directory.
 - `FInd a Word.py`: Program to find a specific word in a text.
 - `IBAN Validator.py`: Validates International Bank Account Numbers.
 - `Improved Caesar Cipher.py`: An improved version of the Caesar cipher.
 - `Numbers Processor.py`: Processes a list of numbers.
 - `Palindrome.py`: Checks if a given string is a palindrome.
+- `Points on a Plane.py`: Calculates distances between points on a plane.
 - `Queue.py`: Basic queue implementation.
 - `Seven Segment Display.py`: Simulates a seven-segment display.
+- `Sorted Character Frequency Histogram.py`: Generates a sorted histogram of character frequencies.
+- `Student Results Evaluation.py`: Evaluates student results based on given criteria.
 - `Sudoku.py`: A Sudoku puzzle solver.
 - `Tic Tac Toe.py`: A simple Tic Tac Toe game.
 - `Timer.py`: A timer program.
@@ -58,7 +65,7 @@ All programs are written in **Python 3** and can be run directly using any Pytho
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍🍳 Author
 
 **Rajath Patil Kulkarni**
 
